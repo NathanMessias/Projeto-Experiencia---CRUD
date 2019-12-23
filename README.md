@@ -1,6 +1,6 @@
 # Projeto-Experiencia---CRUD
-Desenvolvimento de um CRUD para estudo da linguagem Python com o frameworka Django.
-**É necessário ter o Python e o Django instalados na máquina. Ter instalado tbm o pacote widget-tweaks**
+Desenvolvimento de um CRUD para estudo da linguagem Python com o framework Django.
+**É necessário ter o Python e o Django instalados na máquina. Ter instalado também o pacote widget-tweaks**
 
 
 
