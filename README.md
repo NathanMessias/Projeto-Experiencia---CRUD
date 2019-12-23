@@ -2,6 +2,7 @@
 Desenvolvimento de um CRUD para estudo da linguagem Python com o framework Django.
 **É necessário ter o Python e o Django instalados na máquina. Ter instalado também o pacote widget-tweaks**
 
+## Para Instalar
 
 
 Para criar as _Migrations_:
